@@ -34,3 +34,5 @@ Runner/GeneratedPluginRegistrant.*
 !default.perspectivev3
 
 Podfile.lock
+
+firebase_app_id_file.json
